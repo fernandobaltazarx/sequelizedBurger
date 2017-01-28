@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "0.1.1",
+  "description": "Burger Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobaltazarx/burger.git"
+  },
+  "author": "Fernando Baltazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandobaltazarx/burger/issues"
+  },
+  "homepage": "https://github.com/fernandobaltazarx/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "dateformat": "^2.0.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.30.0",
+    "sequelize-cli": "^2.5.1"
+  }
+}
